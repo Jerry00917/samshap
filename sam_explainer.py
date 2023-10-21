@@ -40,6 +40,15 @@ def gen_concept_masks(gen_model,target_img):
     return gen_model.generate(target_img)
 
 
+
+### model: the target endtoend model you wish to explain
+### img_numpy: image in numpy version, the same file you pass to the sam
+### image_class: the class id you wish to explain
+### concept_masks: concept_masks gen by sam
+### fc: the fully-connect layer in the target endtoend model
+### feat_exp: the feature extrator in the target endtoend model
+### image_norm: transform the img_numpy into torch version with the target model normlize
+
 def samshap(model,img_numpy,image_class,concept_masks,fc,feat_exp,image_norm=None,lr=0.008):
     
     
