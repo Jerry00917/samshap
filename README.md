@@ -11,3 +11,8 @@ Our EAC approach generates high accurate and human-understandable post-hoc expla
 ## Downloading the SAM backbone
 We use ViT-H as our default SAM model. For downloading the pre-train model and installation dependencies, please refer [SAM repo](https://github.com/facebookresearch/segment-anything#model-checkpoints).
 
+## Explain a hummingbird on your local pre-trained ResNet-50!
+Simply run the following command:
+```
+python demo_samshap.py
+```
