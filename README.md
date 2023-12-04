@@ -1,6 +1,20 @@
 # Explain Any Concept: Segment Anything Meets Concept-Based Explanation (EAC) Poster @ NeurIPS 2023
 Code for the paper "Explain Any Concept: Segment Anything Meets Concept-Based Explanation".
 
+## Citation
+Please cite the paper as follows if you use the data or code from Samshap:
+```
+@inproceedings{
+sun2023explain,
+title={Explain Any Concept: Segment Anything Meets Concept-Based Explanation},
+author={Ao Sun and Pingchuan Ma and Yuanyuan Yuan and Shuai Wang},
+booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+year={2023},
+url={https://openreview.net/forum?id=X6TBBsz9qi}
+}
+```
+## Contact
+Please reach out to us if you have any questions or suggestions. You can send an email to asunac@connect.ust.hk.
 
 Here is an overview of our work, and you can find more in our [Preprint](https://arxiv.org/abs/2305.10289).
 ![Overview](./demo.png)
