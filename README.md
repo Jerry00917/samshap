@@ -17,7 +17,7 @@ url={https://openreview.net/forum?id=X6TBBsz9qi}
 Please reach out to us if you have any questions or suggestions. You can send an email to asunac@connect.ust.hk.
 
 ## Overview
-Here is an overview of our work, and you can find more in our [Preprint](https://arxiv.org/abs/2305.10289).
+Here is an overview of our work, and you can find more in our [Paper](https://openreview.net/forum?id=X6TBBsz9qi).
 ![Overview](./demo.png)
 
 Our EAC approach generates high accurate and human-understandable post-hoc explanations.
